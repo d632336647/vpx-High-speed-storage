@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Fonts/themify.ttf</file>
+        <file>Images/circle.gif</file>
+        <file>Images/wave.gif</file>
+        <file>rc/img/backline.png</file>
+        <file>rc/img/card152r.png</file>
+        <file>rc/img/card152rr.png</file>
+        <file>rc/img/changer152r.png</file>
+        <file>rc/img/spacing.png</file>
+        <file>rc/img/vpx6.png</file>
+        <file>rc/img/vpx66.png</file>
+        <file>rc/img/yuan/backline.png</file>
+        <file>rc/img/yuan/cir1.png</file>
+        <file>rc/img/yuan/cir2.png</file>
+        <file>rc/img/yuan/cir3.png</file>
+        <file>rc/img/yuan/cir4.png</file>
+        <file>rc/img/yuan/cir5.png</file>
+        <file>rc/img/yuan/cir33.png</file>
+        <file>rc/img/yuan/cir44.png</file>
+        <file>rc/img/yuan/in1.png</file>
+        <file>rc/img/yuan/in2.png</file>
+        <file>rc/img/yuan/in3.png</file>
+        <file>rc/img/yuan/in4.png</file>
+        <file>rc/img/backline2.png</file>
+        <file>rc/img/vpx1.png</file>
+        <file>rc/img/vpx2.png</file>
+        <file>rc/img/vpx3.png</file>
+        <file>rc/img/vpx4.png</file>
+        <file>rc/img/vpx5.png</file>
+        <file>rc/img/xx.png</file>
+    </qresource>
+</RCC>
